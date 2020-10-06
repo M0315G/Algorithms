@@ -7,8 +7,8 @@ The list of available Algorithms are:
 - [x] Bubble Sort Recursive
 - [ ] Selection Sort Iterative
 - [ ] Selection Sort Recursive
-- [ ] Insertion Sort Iterative
-- [ ] Insertion Sort Recursive
+- [x] Insertion Sort Iterative
+- [x] Insertion Sort Recursive
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Maximum Sub Array
