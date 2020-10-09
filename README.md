@@ -9,7 +9,7 @@ The list of available Algorithms are:
 - [x] Selection Sort Recursive
 - [x] Insertion Sort Iterative
 - [x] Insertion Sort Recursive
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Quick Sort
 - [ ] Maximum Sub Array
 - [ ] Prim's Algorithm
