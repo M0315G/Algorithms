@@ -11,8 +11,8 @@ The list of available Algorithms are:
 - [x] Insertion Sort Recursive
 - [x] Merge Sort
 - [x] Quick Sort
-- [ ] Maximum Sub Array
-- [ ] Prim's Algorithm
+- [x] Maximum Sub Array
+- [x] Prim's Algorithm
 - [ ] Binomial Tree
 - [ ] Binomial Heap
 - [ ] Median of Medians Algorithm
