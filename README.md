@@ -17,5 +17,6 @@ The list of available Algorithms are:
 - [ ] Binomial Heap
 - [ ] Median of Medians Algorithm
 - [ ] Matrix Chain Multiplication
-- [ ] Strassen's Matrix Multiplication
+- [x] Strassen's Matrix Multiplication
+
 Many more to be added soon
