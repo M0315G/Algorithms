@@ -13,8 +13,8 @@ The list of available Algorithms are:
 - [x] Quick Sort
 - [x] Maximum Sub Array
 - [x] Prim's Algorithm
-- [ ] Binomial Tree
-- [ ] Binomial Heap
+- [x] Binomial Tree
+- [x] Binomial Heap
 - [ ] Median of Medians Algorithm
 - [ ] Matrix Chain Multiplication
 - [x] Strassen's Matrix Multiplication
