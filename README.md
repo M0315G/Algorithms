@@ -15,7 +15,7 @@ The list of available Algorithms are:
 - [x] Prim's Algorithm
 - [x] Binomial Tree
 - [x] Binomial Heap
-- [ ] Median of Medians Algorithm
+- [x] Median of Medians Algorithm
 - [ ] Matrix Chain Multiplication
 - [x] Strassen's Matrix Multiplication
 
