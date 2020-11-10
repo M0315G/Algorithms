@@ -18,6 +18,7 @@ The list of available Algorithms are:
 - [x] Median of Medians Algorithm
 - [x] Matrix Chain Multiplication
 - [x] Strassen's Matrix Multiplication
+- [x] 0/1 Knapsack using Branch and Bound
 - [ ] Travelling Salesman problem
 
 Many more to be added soon
